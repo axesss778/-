@@ -1,0 +1,11 @@
+@media(max-width: 956px){
+    header{
+        .silki{
+            display: none;
+        }
+    }
+    .banner1{
+        background-position: center;
+        background-size: cover;
+    }
+}
